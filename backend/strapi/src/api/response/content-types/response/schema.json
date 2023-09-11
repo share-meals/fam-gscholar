@@ -1,0 +1,61 @@
+{
+  "kind": "collectionType",
+  "collectionName": "responses",
+  "info": {
+    "singularName": "response",
+    "pluralName": "responses",
+    "displayName": "Responses",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "search_metadata": {
+      "displayName": "search_metadata",
+      "type": "component",
+      "repeatable": false,
+      "component": "searches.search-metadata"
+    },
+    "search_parameters": {
+      "displayName": "search_parameters",
+      "type": "component",
+      "repeatable": false,
+      "component": "searches.search-parameters"
+    },
+    "search_information": {
+      "displayName": "search_information",
+      "type": "component",
+      "repeatable": false,
+      "component": "searches.search-information"
+    },
+    "organic_results": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::result.result"
+    },
+    "related_searches": {
+      "displayName": "related_searches",
+      "type": "component",
+      "repeatable": true,
+      "component": "searches.related-searches"
+    },
+    "pagination": {
+      "displayName": "pagination",
+      "type": "component",
+      "repeatable": false,
+      "component": "searches.pagination"
+    },
+    "serpapi_pagination": {
+      "type": "component",
+      "repeatable": false,
+      "component": "searches.pagination"
+    },
+    "search": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::search.search"
+    }
+  }
+}

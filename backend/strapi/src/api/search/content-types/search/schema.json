@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "searches",
+  "info": {
+    "singularName": "search",
+    "pluralName": "searches",
+    "displayName": "Searches",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "query": {
+      "type": "string"
+    },
+    "year_min": {
+      "type": "integer"
+    },
+    "year_max": {
+      "type": "integer"
+    },
+    "last_run": {
+      "type": "datetime"
+    },
+    "responses": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::response.response"
+    },
+    "page": {
+      "type": "integer"
+    }
+  }
+}

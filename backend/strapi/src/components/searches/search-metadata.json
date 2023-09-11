@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_searches_search_metadata",
+  "info": {
+    "displayName": "search_metadata"
+  },
+  "options": {},
+  "attributes": {
+    "serpapi_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "json_endpoint": {
+      "type": "string"
+    },
+    "serpapi_created_at": {
+      "type": "datetime"
+    },
+    "serpapi_processed_at": {
+      "type": "datetime"
+    },
+    "google_scholar_url": {
+      "type": "string"
+    },
+    "raw_html_file": {
+      "type": "string"
+    },
+    "total_time_taken": {
+      "type": "decimal"
+    }
+  }
+}

@@ -15,7 +15,7 @@
     "@chakra-ui/react": "^2.8.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
-    "@sharemeals/frg-react": "../../frg-shared-react-components/sharemeals-frg-react-0.0.0.tgz",
+    "@sharemeals/frg-react": "./sharemeals-frg-react-0.0.0.tgz",
     "date-fns": "^2.30.0",
     "framer-motion": "^10.15.0",
     "graphql": "^16.7.1",

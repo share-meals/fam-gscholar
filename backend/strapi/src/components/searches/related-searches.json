@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_searches_related_searches",
+  "info": {
+    "displayName": "related_searches"
+  },
+  "options": {},
+  "attributes": {
+    "query": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
