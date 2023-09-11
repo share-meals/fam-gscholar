@@ -1,0 +1,406 @@
+{
+  "search_metadata": {
+    "id": "64dfa8065b54ef99dfb21fe6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d7f7daac24ed93c0/64dfa8065b54ef99dfb21fe6.json",
+    "created_at": "2023-08-18 17:19:02 UTC",
+    "processed_at": "2023-08-18 17:19:02 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=biology&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/d7f7daac24ed93c0/64dfa8065b54ef99dfb21fe6.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "biology",
+    "hl": "en"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6150000,
+    "time_taken_displayed": 0.04,
+    "query_displayed": "biology"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A new biology for a new century",
+      "result_id": "KNJ0p4CbwgoJ",
+      "link": "https://journals.asm.org/doi/abs/10.1128/MMBR.68.2.173-186.2004",
+      "snippet": "… molecular biology's lead … in biology that 20th century biology, molecular biology, could not handle and, so, avoided. The former course, though highly productive, is certain to turn biology …",
+      "publication_info": {
+        "summary": "CR Woese - Microbiology and molecular biology reviews, 2004 - Am Soc Microbiol"
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC419918/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KNJ0p4CbwgoJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC419918/",
+        "cited_by": {
+          "total": 796,
+          "link": "https://scholar.google.com/scholar?cites=775353062728716840&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "775353062728716840",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=775353062728716840&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KNJ0p4CbwgoJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AKNJ0p4CbwgoJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cluster=775353062728716840&hl=en&as_sdt=0,33",
+          "cluster_id": "775353062728716840",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=775353062728716840&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Sealice on salmonids: their biology and control",
+      "result_id": "Rn1qFVLRfKwJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0065308X0860233X",
+      "snippet": "… This review examines the voluminous literature on the biology and control of sealice and brings together ideas for developing our knowledge of these organisms. Research on the …",
+      "publication_info": {
+        "summary": "AW Pike, SL Wadsworth - Advances in parasitology, 1999 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Rn1qFVLRfKwJ",
+        "cited_by": {
+          "total": 610,
+          "link": "https://scholar.google.com/scholar?cites=12429039222112550214&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "12429039222112550214",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12429039222112550214&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Rn1qFVLRfKwJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3ARn1qFVLRfKwJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=12429039222112550214&hl=en&as_sdt=0,33",
+          "cluster_id": "12429039222112550214",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=12429039222112550214&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "The biology of mycorrhiza.",
+      "result_id": "6zRLFbcxtREJ",
+      "link": "https://www.cabdirect.org/cabdirect/abstract/19690600367",
+      "snippet": "In the second, revised and extended, edition of this work [cf. FA 20 No. 4264], two new chapters have been added (on carbohydrate physiology of ectotrophic mycorrhizas, and the …",
+      "publication_info": {
+        "summary": "JL Harley - The biology of mycorrhiza., 1969 - cabdirect.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6zRLFbcxtREJ",
+        "cited_by": {
+          "total": 755,
+          "link": "https://scholar.google.com/scholar?cites=1275980731835430123&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "1275980731835430123",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=1275980731835430123&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6zRLFbcxtREJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3A6zRLFbcxtREJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=1275980731835430123&hl=en&as_sdt=0,33",
+          "cluster_id": "1275980731835430123",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=1275980731835430123&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6zRLFbcxtREJ:scholar.google.com/+biology&hl=en&as_sdt=0,33"
+      }
+    },
+    {
+      "position": 3,
+      "title": "The biology of eucalypts.",
+      "result_id": "HFdEElNr3IgJ",
+      "link": "https://www.cabdirect.org/cabdirect/abstract/19760634482",
+      "snippet": "A brief general introduction to some aspects of the biology of Eucalypts, with particular emphasis on specialization in morphology, physiology, ecology and genetics. The chapters are: …",
+      "publication_info": {
+        "summary": "LD Pryor - The biology of Eucalypts., 1976 - cabdirect.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HFdEElNr3IgJ",
+        "cited_by": {
+          "total": 431,
+          "link": "https://scholar.google.com/scholar?cites=9861875288567469852&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "9861875288567469852",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=9861875288567469852&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HFdEElNr3IgJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AHFdEElNr3IgJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=9861875288567469852&hl=en&as_sdt=0,33",
+          "cluster_id": "9861875288567469852",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=9861875288567469852&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:HFdEElNr3IgJ:scholar.google.com/+biology&hl=en&as_sdt=0,33"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Introduction to a submolecular biology",
+      "result_id": "6Yb0qOX88FMJ",
+      "type": "Book",
+      "link": "https://books.google.com/books?hl=en&lr=&id=Qv3Erh-yIkkC&oi=fnd&pg=PP1&dq=biology&ots=2Dn1Lv9fCQ&sig=JA7SieyjSr1qDBhWsIOCQyGww7c",
+      "snippet": "… Biology is the science of the improbable and I think it is on principle that the body works only with reactions which are statistically improbable. If metabolism were built of a series of …",
+      "publication_info": {
+        "summary": "A Szent-Gyorgyi - 2012 - books.google.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6Yb0qOX88FMJ",
+        "cited_by": {
+          "total": 675,
+          "link": "https://scholar.google.com/scholar?cites=6048612362870884073&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "6048612362870884073",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6048612362870884073&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6Yb0qOX88FMJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3A6Yb0qOX88FMJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=6048612362870884073&hl=en&as_sdt=0,33",
+          "cluster_id": "6048612362870884073",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=6048612362870884073&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "The biology of Pseudocalanus",
+      "result_id": "bs-D_MeC14YJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0065288108604046",
+      "snippet": "Publisher Summary Pseudocalanus is typical of most crustaceans in that after hatching at an early stage of development it adds successively new segments and appendages. …",
+      "publication_info": {
+        "summary": "CJ Corkett, IA McLaren - Advances in marine biology, 1979 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bs-D_MeC14YJ",
+        "cited_by": {
+          "total": 464,
+          "link": "https://scholar.google.com/scholar?cites=9716378516521733998&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "9716378516521733998",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=9716378516521733998&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:bs-D_MeC14YJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3Abs-D_MeC14YJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=9716378516521733998&hl=en&as_sdt=0,33",
+          "cluster_id": "9716378516521733998",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=9716378516521733998&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Csmpbrll Biology",
+      "result_id": "YnWp49O_RTMJ",
+      "type": "Book",
+      "link": "https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/13912/Biology%201%20-%20157%20pages.pdf?sequence=1&isAllowed=y",
+      "snippet": "… Bacteria have been the foundation of molecular biology for the last 100 years because they re … Most of what we initially learned about molecular biology about genes and proteins and …",
+      "publication_info": {
+        "summary": "JB Reece - 1994 - ds.amu.edu.et"
+      },
+      "resources": [
+        {
+          "title": "amu.edu.et",
+          "file_format": "PDF",
+          "link": "https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/13912/Biology%201%20-%20157%20pages.pdf?sequence=1&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YnWp49O_RTMJ",
+        "cited_by": {
+          "total": 1316,
+          "link": "https://scholar.google.com/scholar?cites=3694569986105898338&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "3694569986105898338",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=3694569986105898338&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:YnWp49O_RTMJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AYnWp49O_RTMJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 26,
+          "link": "https://scholar.google.com/scholar?cluster=3694569986105898338&hl=en&as_sdt=0,33",
+          "cluster_id": "3694569986105898338",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=3694569986105898338&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:YnWp49O_RTMJ:scholar.google.com/+biology&hl=en&as_sdt=0,33"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Biology data book",
+      "result_id": "d8thHtTwq6YJ",
+      "type": "Pdf",
+      "link": "http://bionumbers.hms.harvard.edu/files/28developmentalstagesVIIsalmonidfish.pdf",
+      "snippet": "Embryos were raised at constant temperature in circulating nalis\" u 10% smaller. For additional information on salmowater, from three hours after fertilization. Age= time from nids, …",
+      "publication_info": {
+        "summary": "PL Altman, DS Dittmer - 1972 - bionumbers.hms.harvard.edu"
+      },
+      "resources": [
+        {
+          "title": "harvard.edu",
+          "file_format": "PDF",
+          "link": "http://bionumbers.hms.harvard.edu/files/28developmentalstagesVIIsalmonidfish.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=d8thHtTwq6YJ",
+        "cited_by": {
+          "total": 1152,
+          "link": "https://scholar.google.com/scholar?cites=12009957625147018103&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "12009957625147018103",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12009957625147018103&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:d8thHtTwq6YJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3Ad8thHtTwq6YJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cluster=12009957625147018103&hl=en&as_sdt=0,33",
+          "cluster_id": "12009957625147018103",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=12009957625147018103&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Osteophytes: relevance and biology",
+      "result_id": "RJJcW8ot24EJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S106345840600327X",
+      "snippet": "OBJECTIVE: Osteophytes are common features of osteoarthritis. This review summarizes the current understanding of the clinical relevance and biology of osteophytes. METHOD: This …",
+      "publication_info": {
+        "summary": "PM Van Der Kraan, WB Van Den Berg - Osteoarthritis and cartilage, 2007 - Elsevier",
+        "authors": [
+          {
+            "name": "PM Van Der Kraan",
+            "link": "https://scholar.google.com/citations?user=2Bp2A70AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2Bp2A70AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2Bp2A70AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S106345840600327X"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RJJcW8ot24EJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S106345840600327X",
+        "cited_by": {
+          "total": 601,
+          "link": "https://scholar.google.com/scholar?cites=9357122997931774532&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "9357122997931774532",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=9357122997931774532&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:RJJcW8ot24EJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3ARJJcW8ot24EJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=9357122997931774532&hl=en&as_sdt=0,33",
+          "cluster_id": "9357122997931774532",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=9357122997931774532&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "General biology",
+      "result_id": "yGvgHH8ROuIJ",
+      "link": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781420052275-1/general-biology-ronald-fayer",
+      "snippet": "Some species of Cryptosporidium infect many host species, whereas others appear restricted to groups such as rodents or ruminants, and others are known to infect only one host …",
+      "publication_info": {
+        "summary": "R Fayer - Cryptosporidium and cryptosporidiosis, 2007 - taylorfrancis.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yGvgHH8ROuIJ",
+        "cited_by": {
+          "total": 1054,
+          "link": "https://scholar.google.com/scholar?cites=16301361038863920072&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "16301361038863920072",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=16301361038863920072&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:yGvgHH8ROuIJ:scholar.google.com/&scioq=biology&hl=en&as_sdt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AyGvgHH8ROuIJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=16301361038863920072&hl=en&as_sdt=0,33",
+          "cluster_id": "16301361038863920072",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=16301361038863920072&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yGvgHH8ROuIJ:scholar.google.com/+biology&hl=en&as_sdt=0,33"
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "molecular biology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=1&q=molecular+biology&qst=ib"
+    },
+    {
+      "query": "synthetic biology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=2&q=synthetic+biology&qst=ib"
+    },
+    {
+      "query": "evolutionary biology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=3&q=evolutionary+biology&qst=ib"
+    },
+    {
+      "query": "computational biology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=4&q=computational+biology&qst=ib"
+    },
+    {
+      "query": "reproductive biology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=5&q=reproductive+biology&qst=ib"
+    },
+    {
+      "query": "biology ecology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=6&q=biology+ecology&qst=ib"
+    },
+    {
+      "query": "biology biochemistry",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=7&q=biology+biochemistry&qst=ib"
+    },
+    {
+      "query": "global change biology",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,33&qsp=8&q=global+change+biology&qst=ib"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&q=biology&hl=en&as_sdt=0,33",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&q=biology&hl=en&as_sdt=0,33",
+      "3": "https://scholar.google.com/scholar?start=20&q=biology&hl=en&as_sdt=0,33",
+      "4": "https://scholar.google.com/scholar?start=30&q=biology&hl=en&as_sdt=0,33",
+      "5": "https://scholar.google.com/scholar?start=40&q=biology&hl=en&as_sdt=0,33",
+      "6": "https://scholar.google.com/scholar?start=50&q=biology&hl=en&as_sdt=0,33",
+      "7": "https://scholar.google.com/scholar?start=60&q=biology&hl=en&as_sdt=0,33",
+      "8": "https://scholar.google.com/scholar?start=70&q=biology&hl=en&as_sdt=0,33",
+      "9": "https://scholar.google.com/scholar?start=80&q=biology&hl=en&as_sdt=0,33",
+      "10": "https://scholar.google.com/scholar?start=90&q=biology&hl=en&as_sdt=0,33"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=40",
+      "6": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=50",
+      "7": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=60",
+      "8": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=70",
+      "9": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=80",
+      "10": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=biology&start=90"
+    }
+  }
+}
