@@ -38,8 +38,8 @@ const LOGIN_USER = gql`
 export default () => {
     const {control, handleSubmit} = useForm<any>({
 	defaultValues: {
-	    email: 'jon@sharebyteaching.org',
-	    password: 'REMOVED'
+	    email: '',
+	    password: ''
 	}
     });
     const [loginUser, {
