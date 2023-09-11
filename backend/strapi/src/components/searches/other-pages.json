@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_searches_other_pages",
+  "info": {
+    "displayName": "other_pages"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_searches_search_informations",
+  "info": {
+    "displayName": "search_information",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "organic_results_state": {
+      "type": "string"
+    },
+    "total_results": {
+      "type": "integer"
+    },
+    "time_taken_displayed": {
+      "type": "decimal"
+    },
+    "query_displayed": {
+      "type": "string"
+    }
+  }
+}

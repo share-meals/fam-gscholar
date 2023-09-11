@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_searches_search_parameters",
+  "info": {
+    "displayName": "search_parameters"
+  },
+  "options": {},
+  "attributes": {
+    "engine": {
+      "type": "string"
+    },
+    "q": {
+      "type": "string"
+    },
+    "hl": {
+      "type": "string"
+    }
+  }
+}

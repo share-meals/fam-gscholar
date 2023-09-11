@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_searches_paginations",
+  "info": {
+    "displayName": "pagination",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "current": {
+      "type": "integer"
+    },
+    "next": {
+      "type": "string"
+    },
+    "other_pages": {
+      "displayName": "other_pages",
+      "type": "component",
+      "repeatable": true,
+      "component": "searches.other-pages"
+    },
+    "next_link": {
+      "type": "string"
+    }
+  }
+}

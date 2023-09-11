@@ -1245,14 +1245,15 @@
   resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.7.2.tgz#cba1cf0a04bc04cb66027c51fa600e9cbc388bc8"
   integrity sha512-7Lcn7IqGMV+vizMPoEl5F0XDshcdDYtMI6uJLQdQz5CfZAwy3vvGKYSUk789qndt5dEC4HfSjviSYlSoHGL2+A==
 
-"@sharemeals/frg-react@../../frg-shared-react-components/sharemeals-frg-react-0.0.0.tgz":
+"@sharemeals/frg-react@./sharemeals-frg-react-0.0.0.tgz":
   version "0.0.0"
-  resolved "../../frg-shared-react-components/sharemeals-frg-react-0.0.0.tgz#1a60edebec57e4695b9ddd14a4ff669bc38cf4da"
+  resolved "./sharemeals-frg-react-0.0.0.tgz#b367ec7e9252d16b175a9c143788f5c871585065"
   dependencies:
     "@types/osrm" "^5.25.2"
     ol "^7.3.0"
     osrm-text-instructions "^0.14.1-beta.3"
     react-icons "^4.10.1"
+    react-to-text "^2.0.1"
     rlayers "^2.0.0-beta.0"
 
 "@swc/core-darwin-arm64@1.3.74":
@@ -2664,6 +2665,11 @@ react-style-singleton@^2.2.1:
     get-nonce "^1.0.0"
     invariant "^2.2.4"
     tslib "^2.0.0"
+
+react-to-text@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-to-text/-/react-to-text-2.0.1.tgz#6a6c1b6c9cf2de6a7e7117b6fff1d7b25d1b4cd3"
+  integrity sha512-4lGuxY+/PqASinxrv7/ydE8wGdnZCGsTNIFiO6DKykzy703jI5pc0/fyyB6BNrBWmtYJ7H9dGY80PJ3V1/8UIg==
 
 react@^18.2.0:
   version "18.2.0"

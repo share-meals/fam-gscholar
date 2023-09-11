@@ -1,0 +1,56 @@
+{
+  "kind": "collectionType",
+  "collectionName": "results",
+  "info": {
+    "singularName": "result",
+    "pluralName": "results",
+    "displayName": "Results",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "position": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "result_id": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "snippet": {
+      "type": "string"
+    },
+    "publication_info": {
+      "displayName": "publication_info",
+      "type": "component",
+      "repeatable": false,
+      "component": "results.publication-info"
+    },
+    "inline_links": {
+      "type": "component",
+      "repeatable": false,
+      "component": "results.inline-links"
+    },
+    "resources": {
+      "displayName": "resources",
+      "type": "component",
+      "repeatable": true,
+      "component": "results.resources"
+    },
+    "type": {
+      "type": "string"
+    },
+    "search": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::search.search"
+    }
+  }
+}
