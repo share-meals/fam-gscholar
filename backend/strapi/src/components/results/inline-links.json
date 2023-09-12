@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_results_inline_links",
+  "info": {
+    "displayName": "inline_links",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "serpapi_cite_link": {
+      "type": "string"
+    },
+    "cited_by": {
+      "displayName": "cited_by",
+      "type": "component",
+      "repeatable": false,
+      "component": "results.cited-by"
+    },
+    "related_pages_link": {
+      "type": "string"
+    },
+    "serpapi_related_pages_link": {
+      "type": "string"
+    },
+    "cached_page_link": {
+      "type": "string"
+    },
+    "versions": {
+      "type": "component",
+      "repeatable": false,
+      "component": "results.versions"
+    },
+    "html_version": {
+      "type": "string"
+    }
+  }
+}
