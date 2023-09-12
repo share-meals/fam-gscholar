@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_results_resources",
+  "info": {
+    "displayName": "resources"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "file_format": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

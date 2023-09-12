@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_results_cited_bies",
+  "info": {
+    "displayName": "cited_by",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "total": {
+      "type": "integer"
+    },
+    "link": {
+      "type": "string"
+    },
+    "cites_id": {
+      "type": "string"
+    },
+    "serpapi_scholar_link": {
+      "type": "string"
+    }
+  }
+}

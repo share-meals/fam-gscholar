@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_results_publication_infos",
+  "info": {
+    "displayName": "publication_info",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "summary": {
+      "type": "string"
+    },
+    "authors": {
+      "displayName": "authors",
+      "type": "component",
+      "repeatable": true,
+      "component": "results.authors"
+    }
+  }
+}

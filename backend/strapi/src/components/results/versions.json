@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_results_versions",
+  "info": {
+    "displayName": "versions",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "total": {
+      "type": "integer"
+    },
+    "link": {
+      "type": "string"
+    },
+    "cluster_id": {
+      "type": "string"
+    },
+    "serpapi_scholar_link": {
+      "type": "string"
+    }
+  }
+}
