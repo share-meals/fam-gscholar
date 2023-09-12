@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_results_authors",
+  "info": {
+    "displayName": "authors"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "serpapi_scholar_link": {
+      "type": "string"
+    },
+    "author_id": {
+      "type": "string"
+    }
+  }
+}
