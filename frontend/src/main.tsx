@@ -18,10 +18,11 @@ const httpLink = createHttpLink({
 
 const authLink = setContext((_, {headers}) => {
     const jwt = localStorage.getItem('jwt');
+    const hasJwt = jwt !== null && jwt !== 'null'; // need to check for string because of localstorage
     return {
 	headers: {
 	    ...headers,
-	    authorization: jwt ? `Bearer ${jwt}` : ''
+	    authorization: hasJwt ? `Bearer ${jwt}` : ''
 	}
     }
 });

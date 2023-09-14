@@ -10,13 +10,13 @@
       "type": "integer"
     },
     "link": {
-      "type": "string"
+      "type": "text"
     },
     "cluster_id": {
-      "type": "string"
+      "type": "text"
     },
     "serpapi_scholar_link": {
-      "type": "string"
+      "type": "text"
     }
   }
 }

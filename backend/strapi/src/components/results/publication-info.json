@@ -7,7 +7,7 @@
   "options": {},
   "attributes": {
     "summary": {
-      "type": "string"
+      "type": "text"
     },
     "authors": {
       "displayName": "authors",

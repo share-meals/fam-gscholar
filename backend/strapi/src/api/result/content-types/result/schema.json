@@ -16,16 +16,16 @@
       "type": "integer"
     },
     "title": {
-      "type": "string"
+      "type": "text"
     },
     "result_id": {
-      "type": "string"
+      "type": "text"
     },
     "link": {
-      "type": "string"
+      "type": "text"
     },
     "snippet": {
-      "type": "string"
+      "type": "text"
     },
     "publication_info": {
       "displayName": "publication_info",
@@ -45,7 +45,7 @@
       "component": "results.resources"
     },
     "type": {
-      "type": "string"
+      "type": "text"
     },
     "search": {
       "type": "relation",

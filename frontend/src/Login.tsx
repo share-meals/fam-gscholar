@@ -49,6 +49,7 @@ export default () => {
     }] = useMutation(LOGIN_USER);
     const {login} = useAuth();
     const onSubmit = handleSubmit(async (data) => {
+	console.log(data);
 	loginUser({
 	    variables: data
 	});

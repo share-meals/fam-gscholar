@@ -15,7 +15,8 @@ import UnauthedLayout from '@/layouts/Unauthed';
 import {useAuth} from '@/context/auth';
 
 export default () => {
-    const {isLoggedIn} = useAuth();
+    const {jwt} = useAuth();
+    const isLoggedIn = jwt !== null && jwt !== 'null'; // need to check against string because of the way localStorage works?
     return(
 	<Router>
 	    {!isLoggedIn &&

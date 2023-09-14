@@ -13,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "query": {
-      "type": "string"
+      "type": "text"
     },
     "year_min": {
       "type": "integer"

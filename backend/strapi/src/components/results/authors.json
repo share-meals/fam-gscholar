@@ -6,16 +6,16 @@
   "options": {},
   "attributes": {
     "name": {
-      "type": "string"
+      "type": "text"
     },
     "link": {
-      "type": "string"
+      "type": "text"
     },
     "serpapi_scholar_link": {
-      "type": "string"
+      "type": "text"
     },
     "author_id": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
