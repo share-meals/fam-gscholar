@@ -6,10 +6,10 @@
   "options": {},
   "attributes": {
     "query": {
-      "type": "string"
+      "type": "text"
     },
     "link": {
-      "type": "string"
+      "type": "text"
     }
   }
 }

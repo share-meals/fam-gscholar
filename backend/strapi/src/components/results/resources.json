@@ -6,13 +6,13 @@
   "options": {},
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "text"
     },
     "file_format": {
-      "type": "string"
+      "type": "text"
     },
     "link": {
-      "type": "string"
+      "type": "text"
     }
   }
 }

@@ -10,7 +10,7 @@
       "type": "integer"
     },
     "next": {
-      "type": "string"
+      "type": "text"
     },
     "other_pages": {
       "displayName": "other_pages",
@@ -19,7 +19,13 @@
       "component": "searches.other-pages"
     },
     "next_link": {
-      "type": "string"
+      "type": "text"
+    },
+    "previous": {
+      "type": "text"
+    },
+    "previous_link": {
+      "type": "text"
     }
   }
 }

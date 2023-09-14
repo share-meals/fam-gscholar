@@ -20,9 +20,9 @@ export const AuthProvider = ({children}) => {
 		localStorage.setItem('jwt', newJwt);
 	    },
 	    logout: () => {
+		setJwt(null);
 		localStorage.setItem('jwt', null);
 	    },
-	    isLoggedIn: localStorage.getItem('jwt') !== null,
 	    jwt
 	}),
 	[jwt, setJwt]

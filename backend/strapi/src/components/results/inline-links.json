@@ -7,7 +7,7 @@
   "options": {},
   "attributes": {
     "serpapi_cite_link": {
-      "type": "string"
+      "type": "text"
     },
     "cited_by": {
       "displayName": "cited_by",
@@ -16,13 +16,13 @@
       "component": "results.cited-by"
     },
     "related_pages_link": {
-      "type": "string"
+      "type": "text"
     },
     "serpapi_related_pages_link": {
-      "type": "string"
+      "type": "text"
     },
     "cached_page_link": {
-      "type": "string"
+      "type": "text"
     },
     "versions": {
       "type": "component",
@@ -30,7 +30,7 @@
       "component": "results.versions"
     },
     "html_version": {
-      "type": "string"
+      "type": "text"
     }
   }
 }

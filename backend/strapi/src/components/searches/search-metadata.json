@@ -6,13 +6,13 @@
   "options": {},
   "attributes": {
     "serpapi_id": {
-      "type": "string"
+      "type": "text"
     },
     "status": {
-      "type": "string"
+      "type": "text"
     },
     "json_endpoint": {
-      "type": "string"
+      "type": "text"
     },
     "serpapi_created_at": {
       "type": "datetime"
@@ -21,10 +21,10 @@
       "type": "datetime"
     },
     "google_scholar_url": {
-      "type": "string"
+      "type": "text"
     },
     "raw_html_file": {
-      "type": "string"
+      "type": "text"
     },
     "total_time_taken": {
       "type": "decimal"

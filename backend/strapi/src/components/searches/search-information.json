@@ -7,7 +7,7 @@
   "options": {},
   "attributes": {
     "organic_results_state": {
-      "type": "string"
+      "type": "text"
     },
     "total_results": {
       "type": "integer"
@@ -16,7 +16,10 @@
       "type": "decimal"
     },
     "query_displayed": {
-      "type": "string"
+      "type": "text"
+    },
+    "page_number": {
+      "type": "integer"
     }
   }
 }

@@ -1,18 +1,31 @@
 {
   "collectionName": "components_searches_search_parameters",
   "info": {
-    "displayName": "search_parameters"
+    "displayName": "search_parameters",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "engine": {
-      "type": "string"
+      "type": "text"
     },
     "q": {
-      "type": "string"
+      "type": "text"
     },
     "hl": {
-      "type": "string"
+      "type": "text"
+    },
+    "as_ylo": {
+      "type": "text"
+    },
+    "num": {
+      "type": "text"
+    },
+    "scisbd": {
+      "type": "text"
+    },
+    "start": {
+      "type": "integer"
     }
   }
 }

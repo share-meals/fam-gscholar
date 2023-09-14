@@ -46,8 +46,8 @@ export default () => {
     } = useForm<any>({
 	defaultValues: {
 	    query: '',
-	    //year_min: 2023,
-	    //year_max: 2023
+	    year_min: '',
+	    year_max: ''
 	}
     });
 
@@ -58,7 +58,11 @@ export default () => {
     }] = useMutation(CREATE_SEARCH);
     const onSubmit = handleSubmit(async (data) => {
 	createSearch({
-	    variables: data
+	    variables: {
+		query: data.query,
+		year_min: data.year_min !== '' ? parseInt(data.year_min) : undefined,
+		year_max: data.year_max !== '' ? parseInt(data.year_max) : undefined
+	    }
 	});
 	toast({
 	    title: 'Success',

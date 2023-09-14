@@ -106,7 +106,7 @@ const CREATE_RESULT = gql`
 `;
 
 
-import test_data from '../test';
+//import test_data from '../test';
 
 const normalizeResponseData = (data) => {
     const dataCopy = structuredClone(data);
@@ -132,7 +132,9 @@ const getResponse = async (search, jwt) => {
     const params = {
 	engine: 'google_scholar',
 	q: search.attributes.query,
-	//api_key: import.meta.env.VITE_SERPAPI_KEY,
+	api_key: import.meta.env.VITE_SERPAPI_KEY,
+	as_ylo: search.attributes.year_min,
+	as_yhi: search.attributes.year_max,
 	scisbd: 1,
 	num: 20,
 	start: search.attributes.page ? search.attributes.page * 20 : 0
@@ -148,14 +150,11 @@ const getResponse = async (search, jwt) => {
 				     body: JSON.stringify(params)
 				 }
     );
-    console.log(response);
-    //return await getJson(params);
-    return test_data;
+    return (await response.json()).data.attributes;
 }
 
 export default () => {
     const {jwt} = useAuth();
-    console.log(jwt);
     const {
 	loading: search_loading,
 	error: search_error,
@@ -175,7 +174,7 @@ export default () => {
     const toast = useToast();
     
     const runSearch = async (search) => {
-	setResponseLoadingId(search.id);
+ 	setResponseLoadingId(search.id);
 	const response_data = await getResponse(search, jwt);
 	console.log(response_data);
 	const result_responses = await Promise.all(
@@ -206,11 +205,11 @@ export default () => {
 		id: search.id,
 		last_run: new Date(),
 		responses: [...existing_responses, response.data.createResponse.data.id],
-		page: response.serpapi_pagination.current
+		page: response_data.serpapi_pagination.current
 	    }
 	});
 	await search_refetch();
-	setResponseLoadingId(null);
+	setResponseLoadingId(-999);
 	toast({
 	    title: 'Success',
 	    description: 'Search ran',
